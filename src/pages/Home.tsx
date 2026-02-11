@@ -23,7 +23,7 @@ export default function Home() {
           preload="metadata"
           aria-hidden="true"
         >
-          <source src="/video.mp4" type="video/mp4" />
+         <source src="/oeb-lab/video.mp4" type="video/mp4" />
         </video>
 
         {/* Dark Overlay */}
